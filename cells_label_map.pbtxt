@@ -1,0 +1,8 @@
+item {
+  name: "cocacola"
+  id: 1
+}
+item {
+  name: "pepsi"
+  id: 2
+}
